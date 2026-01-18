@@ -1,1 +1,24 @@
+# Roadmap
+
+## Phase 1 (Current)
+- Core runtime: registry + install store + runner
+- Workspace app manager
+- Admin control center
+- Local storage installs per workspace
+
+## Phase 2
+- Modules with manifests (auto-merged registry)
+- Widgets registry + widget placements
+- Optional: Persist installs to Firestore
+- Tier enforcement (read-only rules first)
+
+## Phase 3
+- Stripe integration for paid modules/apps/widgets
+- Team workspaces + role-based access
+- Audit logs + activity stream
+
+## Phase 4
+- Marketplace improvements (search, categories, featured modules)
+- Module versioning / updates
+- Export/import workspace configuration
 
